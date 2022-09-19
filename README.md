@@ -21,17 +21,17 @@ Then run the following commands in terminal:
 
 ## ⚙️ Setup
 
-1. Open the **.env** file with any code/text editor and add your private key forexample:
+1. Rename the **.env.example** file to **.env**. Then with any code/text editor add your private key forexample:
 ```
 PRIVATE_KEY=0xa2hjtjnhjputdavmarh3uqmntxevx6j6faui8sorcppyqmuekj54btyd
 ```
-3. Open the **bot.js** file and setup the following variables:
+2. Open the **bot.js** file and setup the following variables:
 ```
 BET_AMOUNT: 5, // Amount of each bet (In USD)
 DAILY_GOAL: 20, // Total profit you are aiming to earn (In USD)
 ```
-4. Start the bot using `npm start` or `yarn start`
-5. 🔮 Enjoy!
+3. Start the bot using `npm start` or `yarn start`
+4. 🔮 Enjoy!
 
 ## Strategy
 - The bot take a series of recomendations given by Trading View and proccess them together with the tendency of the rest of people betting. After the algorithm have complete, it choose to bet **🟢UP** or **🔴DOWN**.
