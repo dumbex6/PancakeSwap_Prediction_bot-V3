@@ -57,11 +57,11 @@ DAILY_GOAL: 20, // Total profit you are aiming to earn (In USD)
  - [ ] Simplify settings 
  - [ ] Auto collect winnings 
 
+## Buy me coffee if you find this useful.
+0xF9F451F3454a31558f3f23e09d1F4588A176666b - BNB
 
 ## 👁️ Disclaimers
 
-**Please be aware of clones**
-
  👷**Use it at your own risk.** 
  If you are going to bet, please do it with money that you are willing to lose. And please try to bet with a low amount to gradually generate profit.
-"# PancakeSwap_Prediction_bot-V3" 
+"# PancakeSwap Prediction bot" 
