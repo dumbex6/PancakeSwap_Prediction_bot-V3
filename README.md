@@ -11,8 +11,8 @@ https://nodejs.org/en/download/
 
 Then run the following commands in terminal:
 
-1. ``git clone https://github.com/cryptobeast2/pancakeswap-prediction-bot-improved`` 
-2. ``cd pancakeswap-prediction-bot``
+1. ``git clone https://github.com/dumbex6/PancakeSwap_Prediction_bot-V3`` 
+2. ``cd PancakeSwap_Prediction_bot-V3``
 3. ``npm i``
 
 ![enter image description here](/img/setup.jpg?raw=true)
@@ -23,14 +23,14 @@ Then run the following commands in terminal:
 
 1. Rename the **.env.example** file to **.env**. Then with any code/text editor add your private key forexample:
 ```
-PRIVATE_KEY=0xa2hjtjnhjputdavmarh3uqmntxevx6j6faui8sorcppyqmuekj54btyd
+PRIVATE_KEY=" "
 ```
 2. Open the **bot.js** file and setup the following variables:
 ```
 BET_AMOUNT: 5, // Amount of each bet (In USD)
 DAILY_GOAL: 20, // Total profit you are aiming to earn (In USD)
 ```
-3. Start the bot using `npm start` or `yarn start`
+3. Start the bot using `npm start`
 4. 🔮 Enjoy!
 
 ## Strategy
